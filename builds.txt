@@ -1,7 +1,7 @@
 name="Zora Blue Build"
 version="3.0"
 url="https://archive.org/download/fikidigital_20180627/fikidigital.zip"
-gui="http://"
+gui="https://kovoo.sk/kovoob2r/176v2.zip"
 kodi="18.0"
 theme="http://"
 img="https://archive.org/download/koditv1301_gmail_Icon_20180627/icon.png"
