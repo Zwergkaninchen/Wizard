@@ -12,7 +12,7 @@ description="Zora Blue Build"
 
 name="Zora City Build"
 version="2.0"
-url="https://archive.org/download/fikidigital_20180627/fikidigital.zip"
+url="https://github.com/Zwergkaninchen/Wizard/raw/master/176v2.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
