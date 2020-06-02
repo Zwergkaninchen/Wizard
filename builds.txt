@@ -24,7 +24,7 @@ description="Zora City Build"
 
 name="Zora Like Build"
 version="1.0"
-url="https://archive.org/download/fikidigital_20180627/fikidigital.zip"
+url="https://github.com/Zwergkaninchen/Wizard/raw/master/160v2.zip"
 gui="http://"
 kodi="16.0"
 theme="http://"
