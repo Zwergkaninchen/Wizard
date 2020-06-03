@@ -1,0 +1,11 @@
+name="Zora Blue Build - Kodi 18.0"
+url="https://github.com/Zwergkaninchen/Wizard/raw/master/180v2.zip"
+img="https://raw.githubusercontent.com/Zwergkaninchen/Wizard/master/final/screenshots/icon.png"
+fanart="https://raw.githubusercontent.com/Zwergkaninchen/Wizard/master/final/screenshots/fanart.jpg"
+description="Zora Blue Build - Kodi 18.0"
+
+name="Zora City Build - Kodi 16.0"
+url="https://github.com/Zwergkaninchen/Wizard/raw/master/160v2.zip"
+img="https://raw.githubusercontent.com/Zwergkaninchen/Wizard/master/final/screenshots/icon.png"
+fanart="https://raw.githubusercontent.com/Zwergkaninchen/Wizard/master/final/screenshots/fanart.jpg"
+description="Zora City Build - Kodi 16.0"
